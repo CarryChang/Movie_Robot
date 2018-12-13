@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h2>查询结果</h2>
+{#<h2>{{ content }}</h2>#}
+
+{% for content in content %}
+
+<h3><a href="{{ content }}">{{ title }}</a></h3>
+    </br>
+{% endfor %}
+</body>
+</html>
