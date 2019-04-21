@@ -1,3 +1,4 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 ##### Movie_Robot
 ##### 主要的技术和工具为：网络爬虫+Django+Pythonanythere托管
 ###
